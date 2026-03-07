@@ -107,7 +107,7 @@ export default function AboutSection() {
           <div className="space-y-6 mt-8">
             <h2 className="text-4xl font-bold text-yellow-500 font-['Orbitron']">About the Movement</h2>
             <p className="text-lg text-gray-300 leading-relaxed">
-              <em className="text-yellow-500 font-semibold">HODL the Mic</em> is a groundbreaking documentary and tour project that bridges the gap between Hip Hop culture and Web3 technology. We're bringing together legendary artists, blockchain innovators, and the PulseChain ecosystem to create something unprecedented.
+              <em className="text-yellow-500 font-semibold">HODL the Mic</em> is a groundbreaking documentary and tour project that bridges the gap between Hip Hop culture and Web3 technology. We're bringing together legendary artists, blockchain innovators, and the Web3 ecosystem to create something unprecedented.
             </p>
             <p className="text-lg text-gray-300 leading-relaxed">
               Our mission is to educate, inspire, and unite communities through the universal language of music while introducing the transformative potential of blockchain technology. From the streets to the blockchain, we're documenting this cultural revolution.
