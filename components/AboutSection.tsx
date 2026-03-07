@@ -125,7 +125,7 @@ export default function AboutSection() {
                 <div className="flex items-center space-x-2">
                   <span className="text-gray-400">Produced by</span>
                   <a 
-                    href="https://readdy.link/preview/5d1b5df8-a5ad-4f82-a661-9cb4415b81bf/4616649" 
+                    href="https://freshneverstale.com" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-yellow-500 font-semibold hover:text-yellow-400 transition-colors cursor-pointer"
