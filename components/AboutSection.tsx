@@ -156,4 +156,7 @@ export default function AboutSection() {
       </div>
     </section>
   );
+
+  <div class="substack-post-embed"><p lang="en">HODLtheMic - Issue #5 by HODLtheMic</p><p>Hip-Hop. Web3. Creator tools. BlockChainMicCheck</p><a data-post-link href="https://hodlthemic.substack.com/p/hodlthemic-issue-5">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+  
 }
